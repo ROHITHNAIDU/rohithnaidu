@@ -21,9 +21,7 @@
 [<img src="https://api.iconify.design/logos:google-gmail.svg" width=48 height=48>][gmail]
 [<img src="https://api.iconify.design/logos:linkedin-icon.svg" width=48 height=48>][linkedin]
 [<img src="https://api.iconify.design/logos:medium-icon.svg" width=48 height=48>][medium]
-[<img src="https://api.iconify.design/logos:credly-icon.svg" width=48 height=48>][credly]
 
 [gmail]: mailto:rohithnaidu.998@gmail.com
 [linkedin]: https://www.linkedin.com/in/rohith-naidu-v-9b0429174
 [medium]: https://medium.com/@rohithnaidu998
-[credly]: https://www.credly.com/users/rohithnaidu-v.de495c12/badges
